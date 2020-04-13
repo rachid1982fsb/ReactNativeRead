@@ -3,10 +3,9 @@ import React from 'react';
 import {
   SafeAreaView,
   StyleSheet,
-  ScrollView,
+ 
   View,
   Text,
-  Button,
   TouchableOpacity,
 } from 'react-native';
 
